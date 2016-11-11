@@ -1,0 +1,125 @@
+<!DOCTYPE css>
+
+* {
+	font-family: Arial;
+}
+
+ul {
+	margin-right: 25px;
+	margin-top: 20px;
+}
+
+li {
+	display: inline;
+	float: right;
+	margin-right: 10px;
+	font-family: Arial;
+}
+
+img {
+	height: 90px;
+	width: 280px;
+	margin-left: 500px;
+	margin-top: 180px;
+}
+
+form {
+	margin-left: 390px;
+	margin-top: 20px;
+}
+
+div {
+	position: absolute;
+	padding: 0px 0px 0px 0px;
+  	right: 0;
+  	bottom: 0;
+  	left: 0;
+  	height: 20px;
+  	padding: 1rem;
+  	background-color: #F5F5F5;
+}
+
+input {
+	width: 500px;
+	height: 30px;
+}
+
+button {
+	padding-top: 0px;
+	margin-top: 20px;
+	height: 35px;
+	width: 130px;
+	border: none;
+	background-color: #F5F5F5;
+}
+
+#search {
+	margin-left: 505px;
+	}
+
+#lucky {
+	margin-left: 5px;
+}
+
+.buttontext {
+	color: grey;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.right {
+	float: right;
+	margin-left: 10px;
+	margin-right: 20px;
+	color: grey;
+	font-family: Arial;
+	font-size: 15px;
+}
+
+.left {
+	float: left;
+	margin-left: 20px;
+	margin-right: 10px;
+	color: grey;
+	font-size: 15px;
+	font-family: Arial;
+}
+
+nav {
+	float: right;
+	padding: 10px 10px 10px 10px;
+	margin-left: 20px;
+	margin-right: 25px;
+	font-size: 15px;
+	font-family: Arial;
+}
+
+a:link {
+	text-decoration: none;
+	color: grey;
+}
+
+#Nederlands {
+	text-decoration: underline;
+	color: blue;
+}
+
+#klein {
+	font-family: Arial;
+	font-size: 13px;
+	text-align: center;
+}
+
+#menu {
+	height: 20px;
+	width: 20px;
+	margin: 0px 0px -4px 5px;
+}
+
+.spatie {
+	margin-left: 10px;
+	margin-right: 1px;
+}
+
+
+
